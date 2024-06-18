@@ -8,7 +8,7 @@ namespace Read
         {
            
             Console.WriteLine("What is Your Favourite Animal?");
-            Console.ReadLine();
+            var x = Console.ReadLine();
 
             Console.ReadKey();
             Console.WriteLine("Mine Too!");

@@ -1,3 +1,3 @@
-﻿using Demo;
+﻿using BasicCalculator;
 
-HelloWorld.Solution();
+Calculator.Solution(25,10);
