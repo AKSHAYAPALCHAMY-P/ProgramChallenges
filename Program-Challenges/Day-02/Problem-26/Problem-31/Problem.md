@@ -1,0 +1,2 @@
+Write a program in C# that asks for a number (x) and a amount (y).
+Show that number as many times as the amount (y).

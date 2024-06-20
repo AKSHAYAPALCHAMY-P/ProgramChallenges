@@ -1,0 +1,3 @@
+
+Write a C# program that calculates the arithmetic measurement 
+of 4 factors entered by the user, one for each line.

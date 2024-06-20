@@ -1,3 +1,25 @@
-﻿using BasicCalculator;
+﻿using BooleanOpertion;
+using CheckNumbers;
+using Descending;
+using FunctionParams;
+using GiveChange;
+using GreetingFareWell;
+using ReturningValue;
+using Vowels;
 
-Calculator.Solution(25,10);
+//CheckVowels.Switch();
+
+//Exceptions.CheckException();
+
+//ConditionalOperator.Solution();
+
+//FunctionGreetingFareWell.FunctionGreetings();
+//FunctionGreetingFareWell.FunctionFareWell();
+
+//Parameters.FunctionWithParameterName("Akshaya");
+//Parameters.FunctionWithOutParameterName();
+
+FunctionReturn.AddFunction(10,10);
+
+
+

@@ -1,0 +1,1 @@
+Create a C# program that asks the user for a text (x) and converts to check if the text is a number or not.

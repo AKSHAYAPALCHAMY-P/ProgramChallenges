@@ -1,0 +1,3 @@
+Write an access control in C# that asks the user for the username and password. Both must be integers and repeat until the login is 12 and the password is 1234 or up to a maximum of 3 attempts.
+
+If the username and password are correct it shows Login successful, but Login failed.
