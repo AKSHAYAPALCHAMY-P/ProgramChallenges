@@ -1,0 +1,2 @@
+Write a program in C# that asks the user for the grades of 10 students divided into 2 groups of 5 students in each. You must store them in a two-dimensional array and show the
+arithmetic average of each group of students.

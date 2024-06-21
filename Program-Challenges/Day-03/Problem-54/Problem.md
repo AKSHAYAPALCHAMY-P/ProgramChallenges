@@ -1,0 +1,1 @@
+Create a C# program that asks the user for an integer (x) and displays the product of its prime factors.

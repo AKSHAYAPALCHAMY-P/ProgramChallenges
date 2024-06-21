@@ -1,8 +1,8 @@
 namespace PrimeNumber
 {
-    public class IdentifyPrime
+    public class IdentifyPrimes
     {
-        public static void PrimeNumbers()
+        public static void PrimesNumbers()
         {
             Console.WriteLine("Enter the Number:");
             int nInput = Convert.ToInt32(Console.ReadLine());

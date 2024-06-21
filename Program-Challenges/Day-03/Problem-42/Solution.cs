@@ -1,8 +1,8 @@
 namespace Descending
 {
-    public class DescendingNumbers
+    public class DescendingIntegerNumbers
     {
-        public static void OddDescending()
+        public static void OddValueDescending()
         {
             Console.WriteLine("Enter the Biggest number");
             int nBiggest = Convert.ToInt32(Console.ReadLine());

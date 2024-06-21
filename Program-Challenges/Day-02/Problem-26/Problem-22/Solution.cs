@@ -1,6 +1,6 @@
 namespace NumberChecking 
 { 
-    public class CheckNumber
+    public class CheckingNumbers
     {
         public static void NumberCheck()
         {

@@ -1,6 +1,6 @@
 namespace ProductNumber
 {
-    public class Numbers
+    public class ProductOfTheNumbers
     {
         public static void ConsecutiveProduct()
         {

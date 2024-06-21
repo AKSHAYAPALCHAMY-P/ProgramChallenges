@@ -1,6 +1,6 @@
 namespace GiveChange
 {
-    public class CashRegister
+    public class CashRegisterMaintenance
     {
         public static void Register()
         {

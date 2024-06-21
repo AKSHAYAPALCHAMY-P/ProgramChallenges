@@ -2,7 +2,7 @@ using System.Diagnostics;
 
 namespace Absolute
 {
-    public class AbsoluteValue
+    public class AbsoluteValueFinding
     {
         public static void Solution()
         {

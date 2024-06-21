@@ -1,8 +1,8 @@
 namespace Equivalent
 {
-    public class EquivalentOperations
+    public class OperationsEquivalent
     {
-        public static void EqualOperations()
+        public static void EqualOperationsOfThreeNumbers()
         {
             Console.WriteLine("Enter the first number:");
             int nA= Convert.ToInt32(Console.ReadLine());

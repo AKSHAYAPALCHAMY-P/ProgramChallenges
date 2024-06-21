@@ -1,8 +1,8 @@
 namespace Switch
 {
-    public class Calculation
+    public class Calculator
     {
-        public static void BasicCalculator()
+        public static void BasicCalculatorFunction()
         {
             Console.WriteLine("Enter the First Number:");
             int nFirst = Convert.ToInt32(Console.ReadLine());

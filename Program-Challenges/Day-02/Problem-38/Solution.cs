@@ -1,6 +1,6 @@
 namespace CharAlphabet
 {
-    public class AlphabetChar
+    public class AlphabetIndex
     {
         public static void AlphabetCharacters()
         {

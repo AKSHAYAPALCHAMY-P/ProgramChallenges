@@ -1,8 +1,8 @@
 namespace MultiplyFactors
 {
-    public class MultiplyThreeFactors
+    public class MultiplyThreeFactorsContext
     {
-        public static void Multiplication()
+        public static void MultiplicationOfThree()
         {
             Console.WriteLine("Enter the First Number:");
             int nValue1 = Convert.ToInt32(Console.ReadLine());

@@ -10,11 +10,11 @@ namespace Square
             Console.WriteLine("Enter the number of Width:");
             int nWidth = Convert.ToInt32(Console.ReadLine());
 
-            for(int i = 0; i <= nWidth; i++)
+            for(int i = 0; i < nWidth; i++)
             { 
-                for(int j = nX; j <= nWidth; j++)
+                for(int j = 0; j < nWidth; j++)
                 {
-                    Console.Write("1");
+                    Console.Write(nX);
                 }
 
                 Console.WriteLine();

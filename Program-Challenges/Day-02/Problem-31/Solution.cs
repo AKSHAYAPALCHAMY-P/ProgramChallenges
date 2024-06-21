@@ -1,8 +1,8 @@
 namespace Repeated
 {
-    public class NumberRepetaed
+    public class NumberRepeated
     {
-        public static void RepeatedNumber()
+        public static void RepeatedNumbers()
         {
             Console.WriteLine("Enter the Value of X:");
             int nX = Convert.ToInt32(Console.ReadLine());

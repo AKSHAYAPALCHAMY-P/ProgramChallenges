@@ -1,8 +1,8 @@
 namespace DivisionOperations
 {
-    public class Division
+    public class OperationDivision
     {
-        public static void ArithmeticDivision()
+        public static void ArithmeticDivisionOperation()
         {
             Console.WriteLine("Enter the first number");
             int nFirst = Convert.ToInt32(Console.ReadLine());

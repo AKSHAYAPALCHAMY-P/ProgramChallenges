@@ -4,14 +4,15 @@ namespace DoWhile
     {
         public static void DoWhileLoops()
         {
-            Console.WriteLine("Enter the number for x:");
-            int nValue = Convert.ToInt32(Console.ReadLine());
+            int nValue = 0;
 
             do
             {
+                Console.WriteLine("Enter the number for x:");
+                nValue = Convert.ToInt32(Console.ReadLine());
+
                 Console.WriteLine(10 * nValue);
             }
-
             while(nValue != 0);
         }
     }

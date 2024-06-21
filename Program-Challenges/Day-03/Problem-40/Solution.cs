@@ -2,7 +2,7 @@ namespace ProductNumber
 {
     public class Numbers
     {
-        public static void ConsecutiveProduct()
+        public static void ConsecutiveProducts()
         {
             Console.WriteLine("Enter the First number:");
             int nFirst = Convert.ToInt32(Console.ReadLine());

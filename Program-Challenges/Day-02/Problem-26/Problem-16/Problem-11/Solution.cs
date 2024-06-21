@@ -1,5 +1,5 @@
 namespace Tables{
-    public class MultiplyTables{
+    public class MultiplicationTablesOfTwo{
         public static void Multiplicationtable()
         {
             Console.WriteLine("Enter the value:");

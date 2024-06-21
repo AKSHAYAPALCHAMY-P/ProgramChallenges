@@ -1,8 +1,8 @@
 namespace Triangle
 {
-    public class TriangleDrawing()
+    public class Triangledrawing()
     {
-        public static void DrawTriangle()
+        public static void DrawingTriangle()
         {
             Console.WriteLine("Enter the number of X:");
             int nX=Convert.ToInt32(Console.ReadLine());

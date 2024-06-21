@@ -1,6 +1,6 @@
 namespace NumbersSum
 {
-    public class SumNumbers
+    public class SumNumbersInfinite
     {
         public static void sumInfinite()
         {

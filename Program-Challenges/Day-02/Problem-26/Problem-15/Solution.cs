@@ -1,6 +1,6 @@
 namespace OrderPriority
 {
-    public class Priority
+    public class PriorityOfNumbers
     {
         public static void OrderOfPriority()
         {

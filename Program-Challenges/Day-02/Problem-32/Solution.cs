@@ -1,6 +1,6 @@
 namespace MultipleNumbers
 {
-    public class MultiplesNumbers
+    public class MultipledNumbers
     {
         public static void MultiplyOperations()
         {

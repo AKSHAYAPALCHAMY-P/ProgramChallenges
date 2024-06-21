@@ -1,6 +1,6 @@
 namespace SumSquared
 {
-    public class Squaring
+    public class SquaringVlaues
     {
         public static void SquareAdd()
         {

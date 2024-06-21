@@ -1,6 +1,6 @@
 namespace RepetitiveStructure
 {
-    public class Repetitive
+    public class RepetitiveValues
     {
         public static void Solution()
         {

@@ -1,6 +1,6 @@
 namespace Average
 {
-    public class CalculateAverage
+    public class CalculateAverageOfNumbers
     {
         public static void AverageCalculations()
         {

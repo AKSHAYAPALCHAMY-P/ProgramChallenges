@@ -1,13 +1,13 @@
 namespace FunctionParams
 {
-    public class Parameters
+    public class ParametersPassing
     {
-        public static void FunctionWithParameterName(string strName)
+        public static void FunctionWithParameterPassing(string strName)
         {
             Console.WriteLine($"Hello {strName}");
         }
 
-        public static void FunctionWithOutParameterName()
+        public static void FunctionWithOutParameterPassing()
         {
             Console.WriteLine("Good Bye!");
         }

@@ -1,6 +1,6 @@
 namespace Calculator
 {
-    public class Basiccalculator
+    public class BasiccalculatorOperation
     {
         public static void CalculatorOperations()
         {

@@ -17,13 +17,11 @@ namespace GreatestOfThree
             {
                 Console.WriteLine("First is the Biggest one");
             }
-
-            if(nSecond > nFirst && nSecond > nThird)
+            else if(nSecond > nFirst && nSecond > nThird)
             {
                 Console.WriteLine("Second is the Biggest one");
             }
-
-            if(nThird > nFirst && nThird > nSecond)
+            else
             {
                 Console.WriteLine("Third is the Biggest one");
             }
