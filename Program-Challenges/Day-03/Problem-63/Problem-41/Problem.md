@@ -1,1 +1,0 @@
-Write a program in C# which asks the user for an integer number and answers if it is a prime number or not.

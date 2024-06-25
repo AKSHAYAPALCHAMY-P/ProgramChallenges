@@ -1,0 +1,1 @@
+Write a program in C# that asks the user for a string and displays a right-aligned triangle.

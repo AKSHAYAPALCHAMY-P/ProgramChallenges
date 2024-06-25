@@ -1,0 +1,1 @@
+Create a C# program to draw a parallelogram, with the width, height and character requested from the user.

@@ -1,0 +1,1 @@
+Create a C# program that declares a two-dimensional character array of 20 rows by 70 columns and stores the letter 'X' to draw on the screen.

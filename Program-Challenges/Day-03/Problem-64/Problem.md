@@ -1,0 +1,2 @@
+Create a C# program that asks the user for a number and save it in a text string. You must implement a function 
+called AddDigits that receives the text as a parameter and returns the sum of its digits.
